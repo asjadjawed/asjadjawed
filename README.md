@@ -4,8 +4,8 @@ My name is Asjad, I am a Full-Stack Developer and Cloud Engineer (4x AWS Certifi
 
 I specialized in JavaScript, TypeScript (React + Node), GoLang, & AWS.
 
-- 🔭 I’m currently working as a Freelance Developer & Consultant
-- 🌱 I’m currently learning - DevOps & System Design for Cloud (AWS - Focused)
+- 🔭 I’m currently working as a Full Stack / Cloud Engineer & Consultant
+- 🌱 Well experienced with Serveless Solutions (with AWS CDK + TypeScript) & K8s 
 - 💬 Ask me about the best food spots
 - ⚡ Fun fact: GoLang is cooler than Python
 - 📫 How to reach me:
