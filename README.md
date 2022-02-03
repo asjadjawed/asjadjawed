@@ -7,7 +7,7 @@ I specialized in JavaScript, TypeScript (React + Node), GoLang, & AWS.
 - 🔭 I’m currently working as a Full Stack / Cloud Engineer & Consultant
 - 🌱 Well experienced with Serveless Solutions (with AWS CDK + TypeScript) & K8s 
 - 💬 Ask me about the best food spots
-- ⚡ Fun fact: GoLang is cooler than Python
+- ⚡ Fun fact: NASA still uses programming languages from the 70s
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/asjadjawed)
   - [LinkedIn](https://www.linkedin.com/in/asjadjawed/)
