@@ -10,7 +10,7 @@ I've worked extensively with Python, JavaScript/TypeScript, Go, AWS, Kubernetes,
 - 💾 My first programming language was GW-Basic
 - 🍶 Currently Learning Functional Programming (Elixir)
 - 📺 Can do Front-end, if forced to 😔...
-- 👨‍🏫 Have Cloud Engineering & DevOps
+- 👨‍🏫 Have taught / trained teams on Architecture / Cloud Engineering / DevOps
 - 🍔 Ask me about the best food spots
 - ⚡ Fun fact: NASA still uses programming languages from the 70s
 - 📫 How to reach me:
