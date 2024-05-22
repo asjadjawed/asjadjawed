@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Asjad, I am a Full-Stack Developer and Cloud Engineer (4x AWS Certified).\
-I specialize in System Design & Architecture and have work with Python, JS/TS, Go.
+I'm Asjad, a passionate Full-Stack Developer and Cloud Engineer with multiple AWS certifications. My expertise lies in System Design, Architecture, Backend Development, and DevOps. I've worked extensively with Python, JavaScript/TypeScript, Go, AWS, Kubernetes, and many other cutting-edge technologies.
 
 - 🔭 I’m currently working as a Full Stack / Cloud Engineer for Epic Games
 - 🏗️ Designed & built large scalable cloud based solutions for complex workflow based bulk processing
-- 🌱 Well experienced with Serveless Solutions
-- 🍶 Learning Functional Programming (Elixir)
+- 🌱 Well experienced with Serverless Solutions
+- 💾 My first programming language was GW-Basic
+- 🍶 Currently Learning Functional Programming (Elixir)
+- 📺 Can do Front-end, if forced to 😔...
 - 🍔 Ask me about the best food spots
 - ⚡ Fun fact: NASA still uses programming languages from the 70s
 - 📫 How to reach me:
