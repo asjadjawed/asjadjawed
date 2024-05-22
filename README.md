@@ -8,6 +8,7 @@ I'm Asjad, a passionate Full-Stack Developer and Cloud Engineer with multiple AW
 - 💾 My first programming language was GW-Basic
 - 🍶 Currently Learning Functional Programming (Elixir)
 - 📺 Can do Front-end, if forced to 😔...
+- 👨‍🏫 Have Cloud Engineering & DevOps
 - 🍔 Ask me about the best food spots
 - ⚡ Fun fact: NASA still uses programming languages from the 70s
 - 📫 How to reach me:
