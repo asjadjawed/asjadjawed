@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Asjad, I am a Full-Stack Developer and Cloud Engineer (4x AWS Certified).
+My name is Asjad, I am a Full-Stack Developer and Cloud Engineer (4x AWS Certified).\
 I specialize in System Design & Architecture and have work with Python, JS/TS, Go.
 
 - 🔭 I’m currently working as a Full Stack / Cloud Engineer for Epic Games
@@ -10,7 +10,7 @@ I specialize in System Design & Architecture and have work with Python, JS/TS, G
 - 🍔 Ask me about the best food spots
 - ⚡ Fun fact: NASA still uses programming languages from the 70s
 - 📫 How to reach me:
-  - [Twitter](https://twitter.com/asjadjawed)
+  - [Twitter/X](https://twitter.com/asjadjawed)
   - [LinkedIn](https://www.linkedin.com/in/asjadjawed/)
 
 <!--
